@@ -1,0 +1,6 @@
+{
+  "name": "P2P Video",
+  "description": "A decentralized (P2P) short-video feed with offline caching, edge-to-edge layout, and adaptive playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
